@@ -1,4 +1,4 @@
 the planet is red
 It's the 4th planet from the sun.
-It's smaller than earth. 
-
+It's smaller than earth
+venus.txt created
